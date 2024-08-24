@@ -19,9 +19,9 @@ int main(array<System::String^>^ args)
     Console::WriteLine(
         L"================================================================");
     Console::WriteLine(
-        L"他喵的 MSVC 2019 工具集坑了我们价值百万美刀的项目！");
+        L"仅用于演示。");
     Console::WriteLine(
-        L"The F@cking MSVC 2019 toolset ruined our $1M project!");
+        L"For presentation purposes only.");
 
     return 0;
 }
