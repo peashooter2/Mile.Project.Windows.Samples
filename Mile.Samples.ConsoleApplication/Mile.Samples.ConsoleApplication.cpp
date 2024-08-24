@@ -22,8 +22,8 @@ int main()
     std::wprintf(
         L"Mile.Samples.ConsoleApplication\n"
         L"================================================================\n"
-        L"他喵的 MSVC 2019 工具集坑了我们价值百万美刀的项目！\n"
-        L"The F@cking MSVC 2019 toolset ruined our $1M project!\n");
+        L"仅用于演示。\n"
+        L"For presentation purposes only.\n");
 
     return 0;
 }
